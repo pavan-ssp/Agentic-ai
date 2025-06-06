@@ -9,4 +9,8 @@ langchain-openai
 langchain-community
 langchain-groq
 langchain-core
-langchain_googleapi
+arxiv
+pymupdf
+wikipedia
+pypdf
+bs4
