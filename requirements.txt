@@ -2,3 +2,4 @@
 # Use pip to install the dependencies listed here.
 numpy 
 pandas
+pydantic
