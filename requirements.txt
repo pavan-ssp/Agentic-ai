@@ -1,0 +1,4 @@
+# This file lists the dependencies for the AgenticAI project.
+# Use pip to install the dependencies listed here.
+numpy 
+pandas
