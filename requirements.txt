@@ -21,3 +21,5 @@ langchain-pinecone
 youtube_search
 langgraph
 chromadb
+textblob
+emoji
