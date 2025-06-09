@@ -23,4 +23,3 @@ langgraph
 chromadb
 textblob
 emoji
-gensim
